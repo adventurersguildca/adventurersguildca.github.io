@@ -1437,6 +1437,10 @@ blockquote.normal {
 	background-image: url('../img/generic/img-16.jpg');
 }
 
+#about-step-block-who-we-are {
+	background-image: url('../img/generic/who-we-are.jpg');
+}
+
 #banner-layout-bothsidebar {
 	background-image: url('../img/banner/img-14.jpg');
 }
@@ -1449,6 +1453,22 @@ blockquote.normal {
 	background-image: url('../img/banner/img-14.jpg');
 }
 
+#banner-layout-fullwidth-about-us {
+	background-image: url('../img/banner/about-us.jpg');
+}
+#banner-layout-fullwidth-our-partners {
+	background-image: url('../img/banner/our-partners.jpg');
+}
+
+#banner-layout-fullwidth-who-we-are {
+	background-image: url('../img/banner/who-we-are.jpg');
+}
+#banner-layout-fullwidth-join-the-club {
+	background-image: url('../img/banner/join-the-club.jpg');
+}
+#banner-layout-fullwidth-our-services {
+	background-image: url('../img/banner/our-services.jpg');
+}
 #banner-layout-leftsidebar {
 	background-image: url('../img/banner/img-14.jpg');
 }
@@ -1479,6 +1499,10 @@ blockquote.normal {
 
 #banner-contact {
 	background-image: url('../img/banner/img-17.jpg');
+}
+
+#banner-compass {
+	background-image: url('../img/banner/compass.jpg');
 }
 
 #banner-intro {
@@ -10326,7 +10350,7 @@ blockquote.normal {
 }
 
 .logo a {
-	width: 120px;
+	width: 100%;
 }
 
 .logo img {
@@ -11664,7 +11688,7 @@ h4,
 
 .logo {
 	width: 240px;
-	padding: 38px 15px 38px 0;
+	padding: 0px 15px 38px 0;
 }
 
 .header-v2 .navbar-default .nav-center {
